@@ -1,5 +1,5 @@
-layout: sidebar
-style: light
+layout: stacked
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -21,19 +21,19 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 100
   exclude:
     archived: false
     forks: true
     projects:
     # - repo-name
 
-# social_media:
+  social_media:
   # behance: your_username
-  # dribbble: your_username
-  # facebook: your_username
+    dribbble: md-riaz
+    facebook: mdriaz.70
   # hackerrank: your_username
-  # instagram: your_username
+    instagram: md_riaz__
   # keybase: your_username
   # linkedin: your_username
   # mastodon: your_username
@@ -43,7 +43,7 @@ projects:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+    website: http://mdriaz.ml
   # youtube: your_username
 
 topics:
